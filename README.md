@@ -5,7 +5,7 @@ PocketWise is an expense tracker that allows users to manage transactions, budge
 
 It works like a personal finance manager where users can track spending, set budgets, and get AI-based suggestions.
 
-1 Features
+1 **Features**
 
 Add / Edit / Delete expenses
 Budget management
@@ -17,7 +17,7 @@ REST API backend
 MySQL database
 Works on XAMPP localhost
 
-2 Technologies Used
+2 **Technologies Used**
 
 PHP
 MySQL
@@ -27,7 +27,7 @@ JavaScript
 HTML / CSS
 REST API
 
-3 Project Description
+3 **Project Description**
 
 This project is a full stack expense tracker built using PHP backend and MySQL database.
 
