@@ -1,4 +1,4 @@
-PocketWise Expense Tracker (PHP Full Stack Project)
+Po**cketWise Expense Tracker (PHP Full Stack Project)**
 
 This is a full stack web project built using PHP, MySQL, and REST API.
 PocketWise is an expense tracker that allows users to manage transactions, budgets, and categories, and also includes an AI chat feature for financial help.
